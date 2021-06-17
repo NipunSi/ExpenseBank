@@ -7,7 +7,7 @@
 ## About the app
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/53502826/122481100-f3540500-cf82-11eb-96a0-7a893bd7b20e.png" width="238" height="450">
+<img src="https://user-images.githubusercontent.com/53502826/122481100-f3540500-cf82-11eb-96a0-7a893bd7b20e.png" width="317" height="600">
 </p>
 
 ### ExpenseBank
