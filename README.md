@@ -22,19 +22,16 @@ I was able to learn a lot more about building UI programatically and how it comp
 
 <br />
 
-## Concepts used
+### Concepts used
 
 * VC, Models, and Interactor for architecture
 * Fully programatic UI and constraints
 * Working with Combine and JSON data
 * Fully custom table view cell
 
-### Features:
+### Features
 
 - [x] Get new expense data every few seconds
 - [x] Show all of the expense's titles, categories, and amounts on a table
 - [x] Calculate and display the category with the highest spending
 - [x] Display the total amount spent and determine whether it was over budget
-
-<br />
-<br />
