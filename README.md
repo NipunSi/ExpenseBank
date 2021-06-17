@@ -1,13 +1,13 @@
 # ExpenseBank
 
 <p align="center">
-<img src="Images/AppIcon.png" width="120" height="120">
+<img src="https://user-images.githubusercontent.com/53502826/122479979-dc141800-cf80-11eb-91fc-16c01680f0a2.png" width="120" height="120">
 </p>
 
 ## About the app
 
 <p align="center">
-<img src="Images/Screenshots.png">
+<img src="https://user-images.githubusercontent.com/53502826/122481100-f3540500-cf82-11eb-96a0-7a893bd7b20e.png" width="238" height="450">
 </p>
 
 ### ExpenseBank
