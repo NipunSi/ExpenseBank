@@ -26,8 +26,8 @@ I was able to learn a lot more about building UI programatically and how it comp
 
 * VC, Models, and Interactor for architecture
 * Fully programatic UI and constraints
-* Working with Combine and JSON data
-* Fully custom table view cell
+* JSON, Codable, and Combine
+* Custom UITableViewCell
 
 ### Features
 
